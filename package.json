@@ -1,0 +1,28 @@
+{
+  "name": "mergely",
+  "version": "3.4.0",
+  "description": "Merge and diff documents online editor and Javascript library that highlights changes in similar texts.It can be used within your own web application to compare files, text, C, C++, Java, HTML, XML, CSS, and Javascript.",
+  "main": "lib/mergely.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uibox/mergely"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "jquery": ">=1.1.0"
+  },
+  "dependencies": {
+    "jquery": ">=1.1.0",
+    "codemirror": "^5.10.0"
+  },
+  "keywords": [
+    "Merge",
+    "diff",
+    "editor",
+    "codemirror",
+    "changes",
+    "compare",
+    "highlights",
+    "document"
+  ]
+}
